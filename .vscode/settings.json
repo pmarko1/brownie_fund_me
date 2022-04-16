@@ -1,0 +1,6 @@
+{
+    "solidity.remappings": [
+        "@chainlink/=C:/Users/Hišni Stari/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.2.2"
+    ],
+    "python.languageServer": "Pylance"
+}
